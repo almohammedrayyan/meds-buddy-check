@@ -22,6 +22,8 @@ const AuthIndex = () => {
   const navigate = useNavigate();
   const handleLogout = () => {
     Cookies.remove("authToken");
+    Cookies.remove("patient_email");
+
     navigate("/");
   };
   return (
