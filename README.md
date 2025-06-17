@@ -1,3 +1,13 @@
+#Medi App assignement done:
+The following requirment has been completed 
+1) the authentication will be in form of 
+two authentication oe is patient and another is caretaker
+2) crud for mrdication - (caretaker)
+3) crud for logs mark as taken (patient)
+4) real time database connect for dashboard
+5) adherence tracking
+   
+
 # MediCare App - 4-6 Hour Assessment
 
 ## Live Demo (UI only): https://meds-buddy-check.lovable.app/
@@ -75,3 +85,4 @@ Deploy to Vercel/Netlify
 - State management approach
 - Performance considerations (unnecessary re-renders)
 - Security awareness (input sanitization)
+
